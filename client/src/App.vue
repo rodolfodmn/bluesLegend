@@ -15,4 +15,7 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+@import './assets/css/skeleton/css/normalize.css'
+@import './assets/css/skeleton/css/skeleton.css';
+</style>
