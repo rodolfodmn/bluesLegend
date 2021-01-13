@@ -1,9 +1,14 @@
 <template>
-  <div class="hello">
-    <h1>main screen</h1>
-    <TopMenu />
-    <BottomMenu />
-    <GameScreen />
+  <div class="container">
+    <div class="row">
+      <TopMenu />
+    </div>
+    <div class="row">
+      <GameScreen />
+    </div>
+    <div class="row">
+      <BottomMenu />
+    </div>
   </div>
 </template>
 
